@@ -1,10 +1,10 @@
-body {
+.head {
+    text-align: center; color: red;
+}
+.body {
     background-color: dodgerblue;
     font-family: Arial, Helvetica, sans-serif;
 }
-head {
-    text-align: center; color: red;
-}
-h1{
+.h1{
     color: cadetblue;
 }
