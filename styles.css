@@ -4,10 +4,10 @@ body {
     p {
     text-align: center; color: red;
     }
-    #para1 {
+    para1 {
     text-align: center; color: red;
     }
-    .center {
+    center {
     text-align: center; color: red;
     }
 }
