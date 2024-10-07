@@ -3,6 +3,7 @@ body {
 background: dodgerblue;
 font-family: Arial, Helvetica, sans-serif;
 }
-#title {
-  text-align: center; color: red;
+h1 {
+  text-align: center; 
+  color: red;
 }
